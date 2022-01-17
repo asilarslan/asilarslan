@@ -1,15 +1,16 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!--
 <a href="https://asilarslan.medium.com/">
   <img align="left" alt="Asil's Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-2.png" />
 </a>
 <a href="https://www.linkedin.com/in/asilarslan/">
   <img align="left" alt="Asil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+-->
 <a href="https://github.com/asilarslan">
   <img align="left" alt="Asil's Counter" src="https://visitor-badge.glitch.me/badge?page_id=asilarslan.asilarslan" />
 </a>
-
+<!--
 <br>
 <br>
 
@@ -54,3 +55,4 @@ print(profile.description)
 print(profile.proficient())
 
 ```
+-->
