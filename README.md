@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!--### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
 <!--
 <a href="https://asilarslan.medium.com/">
   <img align="left" alt="Asil's Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-2.png" />
@@ -10,7 +10,7 @@
 <a href="https://github.com/asilarslan">
   <img align="left" alt="Asil's Counter" src="https://visitor-badge.glitch.me/badge?page_id=asilarslan.asilarslan" />
 </a>
-<!--
+<!---->
 <br>
 <br>
 
@@ -35,9 +35,9 @@ struct Profile: CustomStringConvertible {
     }
     
     enum Skill: String, CaseIterable {
-        case swift, objc, uIKit, swiftUI
+        case swift, uIKit, swiftUI
         case testing, git, fastlane
-        case vim, rN, combine
+        case vim
     }
     
     func proficient(in skills: [Skill] = Skill.allCases) -> String {
@@ -55,4 +55,4 @@ print(profile.description)
 print(profile.proficient())
 
 ```
--->
+<!---->
