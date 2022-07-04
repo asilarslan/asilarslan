@@ -7,9 +7,7 @@
   <img align="left" alt="Asil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 -->
-<a href="https://github.com/asilarslan">
-  <img align="left" alt="Asil's Counter" src="https://visitor-badge.glitch.me/badge?page_id=asilarslan.asilarslan" />
-</a>
+
 <!---->
 <br>
 <br>
@@ -56,3 +54,7 @@ print(profile.proficient())
 
 ```
 <!---->
+
+<a href="https://github.com/asilarslan">
+  <img align="left" alt="Asil's Counter" src="https://visitor-badge.glitch.me/badge?page_id=asilarslan.asilarslan" />
+</a>
